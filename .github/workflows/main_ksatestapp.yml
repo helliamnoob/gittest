@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'ksatestapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_21c591acc8df493ab9d955d814e87d4b }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ed4ec0aac967401196ffb7eed9c1ac33 }}
         package: .
